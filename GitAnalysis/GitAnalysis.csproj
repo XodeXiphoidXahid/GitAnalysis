@@ -121,12 +121,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
-<<<<<<< HEAD
-    <Compile Include="Controllers\Default1Controller.cs" />
-    <Compile Include="Controllers\DefaultController.cs" />
-=======
     <Compile Include="Controllers\ConflictController.cs" />
->>>>>>> 4cd309c9f1513c19e38e5fb15257612fd993d88a
     <Compile Include="Controllers\EmployeeController.cs" />
     <Compile Include="Controllers\HelpController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -182,13 +177,8 @@
     <Content Include="Views\Khalid\Index.cshtml" />
     <Content Include="Views\Help\Index.cshtml" />
     <Content Include="Views\Sales\Index.cshtml" />
-<<<<<<< HEAD
-    <Content Include="Views\Default\Index.cshtml" />
-    <Content Include="Views\Default1\Index.cshtml" />
-=======
     <Content Include="Views\ValoLageNa\Index.cshtml" />
     <Content Include="Views\Conflict\Index.cshtml" />
->>>>>>> 4cd309c9f1513c19e38e5fb15257612fd993d88a
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
