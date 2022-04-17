@@ -165,7 +165,11 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Content Include="Views\Employee\Index.cshtml" />
+=======
+    <Content Include="Views\Person\Index.cshtml" />
+>>>>>>> edc8c75b023a0a936eaf80f497dd0b59f65cde9d
 =======
     <Content Include="Views\Person\Index.cshtml" />
 >>>>>>> edc8c75b023a0a936eaf80f497dd0b59f65cde9d
